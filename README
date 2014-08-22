@@ -1,0 +1,5 @@
+BitBucket to GitHub
+
+Copy the sample_config.py to config.py and add edit the details inside.
+
+Now just run the migration.py code.
