@@ -1,5 +1,15 @@
 BitBucket to GitHub
+-------------------
 
-Copy the sample_config.py to config.py and add edit the details inside.
+Migrate repos from BitBucket to GitHub.
 
-Now just run the migration.py code.
+Setup
+-----
+Copy the sample_config.py to config.py and add edit the details inside to have
+appropriate values.
+
+Running
+-------
+Just run the migration.py script.
+
+> $ python migration.py
