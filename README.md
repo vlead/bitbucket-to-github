@@ -12,4 +12,4 @@ Running
 -------
 Just run the migration.py script.
 
-> $ python migration.py
+`$ python migration.py`
